@@ -3,9 +3,8 @@
   <img src="https://github.com/Junseop1228/Junseop1228/blob/main/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
-  <!-- 가운데 정렬된 텍스트 -->
   <div align="center">
-    <span style="font-size:1.2em; font-weight:bold;">My name is Junseop and I like Python</span>
+    <img height="50" alt="My Name is Junseop and I like Node.js" src="images/personal_note.svg" />
   </div>
   <br />
   <br />
