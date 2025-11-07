@@ -46,6 +46,7 @@
 <!-- Guestbook -->
 | Name | Date | Message |
 |---|---|---|
+| <a href="https://github.com/ehdgus4173"><img width="24" src="https://avatars.githubusercontent.com/u/229568860?s=24&v=4" alt="ehdgus4173" /> ehdgus4173</a> |11/7/2025, 2:58:21 AM|I love your profile!|
 | <a href="https://github.com/Junseop1228"><img width="24" src="https://avatars.githubusercontent.com/u/204638447?s=24&u=f927ee5603d6f2f7490e7381ed7db948fde7d076&v=4" alt="Junseop1228" /> Junseop1228</a> |11/7/2025, 2:55:27 AM|hi|
 <!-- /Guestbook -->
 
