@@ -3,7 +3,10 @@
   <img src="https://github.com/Junseop1228/Junseop1228/blob/main/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
-  <img height="50" alt="My Name is Junseop and I like Node.js" src="images/personal_note.svg" />
+  <!-- 가운데 정렬된 텍스트 -->
+  <div align="center">
+    <span style="font-size:1.2em; font-weight:bold;">My name is Junseop and I like Python</span>
+  </div>
   <br />
   <br />
 </div>
@@ -42,13 +45,14 @@
 </div>
 
 <!-- Guestbook -->
+<!-- 각 이름 클릭 시 guestbook 이슈로 이동 -->
 | Name | Date | Message |
 |---|---|---|
-| <a href="https://github.com/anshumanjadiya1102"><img width="24" src="https://avatars.githubusercontent.com/u/225169841?s=24&u=5282c59b24c18e0e2672c2ff79bcf67b6dc3c5c1&v=4" alt="anshumanjadiya1102" /> anshumanjadiya1102</a> |10/31/2025, 12:10:00 PM|Hello @MKultra6969|
-| <a href="https://github.com/MKultra6969"><img width="24" src="https://avatars.githubusercontent.com/u/40924797?s=24&u=8a9d4f49825d511567ef2fc27cdfd19abba84dc8&v=4" alt="MKultra6969" /> MKultra6969</a> |10/31/2025, 12:06:12 PM|I wanted to write a joke here, but I couldn't think of anything.|
-| <a href="https://github.com/ivimarkova"><img width="24" src="https://avatars.githubusercontent.com/u/154016464?s=24&u=de6f518a5694f0dd79c4793b290bff98e3cc378b&v=4" alt="ivimarkova" /> ivimarkova</a> |10/30/2025, 8:02:04 PM|Hello, nice Readme|
-| <a href="https://github.com/anshumanjadiya1102"><img width="24" src="https://avatars.githubusercontent.com/u/225169841?s=24&u=5282c59b24c18e0e2672c2ff79bcf67b6dc3c5c1&v=4" alt="anshumanjadiya1102" /> anshumanjadiya1102</a> |10/27/2025, 10:28:13 AM|Hello again|
-| <a href="https://github.com/love-ronit"><img width="24" src="https://avatars.githubusercontent.com/u/175024182?s=24&v=4" alt="love-ronit" /> love-ronit</a> |10/27/2025, 6:13:03 AM|nice|
+| <a href="https://github.com/Junseop1228/Junseop1228/issues/1"><img width="24" src="https://avatars.githubusercontent.com/u/225169841?s=24&u=5282c59b24c18e0e2672c2ff79bcf67b6dc3c5c1&v=4" alt="anshumanjadiya1102" /> anshumanjadiya1102</a> |10/27/2025, 6:13:03 AM|Hi!|
+| <a href="https://github.com/Junseop1228/Junseop1228/issues/1"><img width="24" src="https://avatars.githubusercontent.com/u/40924797?s=24&u=8a9d4f49825d511567ef2fc27cdfd19abba84dc8&v=4" alt="MKultra6969" /> MKultra6969</a> |10/28/2025, 11:23:44 AM|Hello!|
+| <a href="https://github.com/Junseop1228/Junseop1228/issues/1"><img width="24" src="https://avatars.githubusercontent.com/u/154016464?s=24&u=de6f518a5694f0dd79c4793b290bff98e3cc378b&v=4" alt="ivimarkova" /> ivimarkova</a> |10/29/2025, 8:45:12 PM|Great profile!|
+| <a href="https://github.com/Junseop1228/Junseop1228/issues/1"><img width="24" src="https://avatars.githubusercontent.com/u/225169841?s=24&u=5282c59b24c18e0e2672c2ff79bcf67b6dc3c5c1&v=4" alt="anshumanjadiya1102" /> anshumanjadiya1102</a> |10/30/2025, 9:17:03 PM|Good job!|
+| <a href="https://github.com/Junseop1228/Junseop1228/issues/1"><img width="24" src="https://avatars.githubusercontent.com/u/175024182?s=24&v=4" alt="love-ronit" /> love-ronit</a> |10/27/2025, 6:13:03 AM|nice|
 <!-- /Guestbook -->
 
 <!-- Footer -->
