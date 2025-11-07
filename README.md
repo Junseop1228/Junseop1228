@@ -44,10 +44,8 @@
 </div>
 
 <!-- Guestbook -->
-<!-- 각 이름 클릭 시 guestbook 이슈로 이동 -->
 | Name | Date | Message |
 |---|---|---|
-
 <!-- /Guestbook -->
 
 <!-- Footer -->
