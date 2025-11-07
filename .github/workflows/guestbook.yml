@@ -9,11 +9,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: Junseop1228/readme-guestbook@main
+      - uses: Junseop1228/Junseop1228@main
         with:
-          # [YOUR_GITHUB_USERNAME] 을 당신의 유저네임으로 바꾸세요.
+          # 
           repo: 'Junseop1228/Junseop1228'
-          # 1단계에서 확인한 이슈 번호로 바꾸세요.
+          # 
           issue-number: '1'
-          # GitHub Actions가 저장소를 수정할 수 있도록 권한을 부여합니다.
+          # 
           github-token: ${{secrets.GITHUB_TOKEN}}
